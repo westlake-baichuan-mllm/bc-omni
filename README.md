@@ -32,7 +32,7 @@ This approach equips the language model with the ability to handle visual and au
 
 The training pipeline is divided into two phases:
 
-<div align=center><img src="assets/pipeline.svg" height="100%" width="75%"/></div>
+<div align=center><img src="assets/pipeline.svg" height="100%" width="90%"/></div>
 
 **Phase 1: Multimodal Alignment Pretraining.** The pre-training and alignment processes consist of Image-Language, Video-Language, and Audio-Language branches.
   - The Image-Language branch utilizes a visual encoder to process images and undergoes training in three stages, focusing on image captioning, visual question answering tasks, and further enhancing alignment with the large language model (LLM).
