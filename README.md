@@ -1,3 +1,7 @@
+<div style="display: flex; justify-content: center;">  
+    <img src="assets/logo.jpg" style="width: 80%; height: auto;"/>
+</div>
+
 <h2 align="center"> <a href="https://arxiv.org/abs/2405.14297">Baichuan-Omni Technical Report</a></h2>
 <h5 align="center"> If our project helps you, please give us a star ⭐ and cite our <a href="#citation">paper</a>!</h2>
 <h5 align="center">
