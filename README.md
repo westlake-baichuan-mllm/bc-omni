@@ -77,7 +77,7 @@ We conducted a comprehensive evaluation across various modalities, including lan
 
 ## Model Zoo
 
-## Training & Evaluation
+## Evaluation
 
 ## Inference
 
