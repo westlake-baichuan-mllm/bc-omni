@@ -73,6 +73,7 @@ We conducted a comprehensive evaluation across various modalities, including lan
 
 <div align=center><img src="assets/audio-perf-2.png" height="100%" width="90%"/></div>
 
+> Coming soon & Stay tuned! 😉
 ## Requirements and Installation
 
 ## Model Zoo
