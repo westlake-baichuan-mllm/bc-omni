@@ -1,18 +1,18 @@
 <div align=center><img src="assets/logo.jpg" height="100%" width="90%"/></div>
 
-<h2 align="center"> <a href="https://arxiv.org/abs/2405.14297">Baichuan-Omni Technical Report</a></h2>
+<h2 align="center"> <a href="https://arxiv.org/abs/2410.08565">Baichuan-Omni Technical Report</a></h2>
 <h5 align="center"> If our project helps you, please give us a star ⭐ and cite our <a href="#citation">paper</a>!</h2>
 <h5 align="center">
 
 <!-- TODO：改成我们自己的链接 -->
 
-[![hf_space](https://img.shields.io/badge/🤗-Paper%20In%20HF-red.svg)](https://huggingface.co/papers/2405.14297)
-[![hf_checkpoint](https://img.shields.io/badge/🤗-Checkpoints-9C276A.svg)](https://huggingface.co/collections/DAMO-NLP-SG/videollama-2-6669b6b6f0493188305c87ed)
-[![arxiv](https://img.shields.io/badge/Arxiv-2405.14297-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2405.14297)
-[![visitor](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLINs-lab%2FDynMoE&count_bg=%2379C83D&title_bg=%23454343&icon=&icon_color=%23E7E7E7&title=visitor&edge_flat=false)](https://hits.seeyoufarm.com)
-[![License](https://img.shields.io/badge/License-Apache%202.0-yellow)](https://github.com/DAMO-NLP-SG/VideoLLaMA2/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/DAMO-NLP-SG/VideoLLaMA2?color=critical&label=Issues)](https://github.com/DAMO-NLP-SG/VideoLLaMA2/issues?q=is%3Aopen+is%3Aissue)
-[![GitHub closed issues](https://img.shields.io/github/issues-closed/DAMO-NLP-SG/VideoLLaMA2?color=success&label=Issues)](https://github.com/DAMO-NLP-SG/VideoLLaMA2/issues?q=is%3Aissue+is%3Aclosed) <br>
+[![hf_space](https://img.shields.io/badge/🤗-Paper%20In%20HF-red.svg)](https://huggingface.co/papers/2410.08565)
+[![hf_checkpoint](https://img.shields.io/badge/🤗-Checkpoints-9C276A.svg)](https://github.com/westlake-baichuan-mllm/bc-omni)
+[![arxiv](https://img.shields.io/badge/Arxiv-2410.08565-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2410.08565)
+[![visitor](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwestlake-baichuan-mllm%2Fbc-omni&count_bg=%2379C83D&title_bg=%23454343&icon=&icon_color=%23E7E7E7&title=visitor&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- [![License](https://img.shields.io/badge/License-Apache%202.0-yellow)](https://github.com/DAMO-NLP-SG/VideoLLaMA2/blob/main/LICENSE) -->
+[![GitHub issues](https://img.shields.io/github/issues/westlake-baichuan-mllm/bc-omni?color=critical&label=Issues)](https://github.com/westlake-baichuan-mllm/bc-omni/issues?q=is%3Aopen+is%3Aissue)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/westlake-baichuan-mllm/bc-omni?color=success&label=Issues)](https://github.com/westlake-baichuan-mllm/bc-omni/issues?q=is%3Aissue+is%3Aclosed) <br>
 
 
 <div style="display: flex; justify-content: center;">  
@@ -21,7 +21,7 @@
 </div>
 
 ## News
-- **[2024/10/xx]** 🔥 We have released technical report of **Baichuan-Omni**. See [here](https://www.overleaf.com/project/66e3d40121950eb2655a99c5)!
+- **[2024/10/11]** 🔥 We have released technical report of **Baichuan-Omni**. See [here](https://arxiv.org/abs/2410.08565)!
 
 ## Introduction
 The salient multimodal capabilities and interactive experience of GPT-4o highlight its critical role in practical applications, yet it lacks a high-performing open-source counterpart.
@@ -85,3 +85,12 @@ We conducted a comprehensive evaluation across various modalities, including lan
 ## Inference
 
 ## Citation
+
+```bibtex
+@article{li2024baichuanomni,  
+  title={Baichuan-Omni Technical Report},  
+  author={Li, Yadong and Sun, Haoze and Lin, Mingan and Li, Tianpeng and Dong, Guosheng and Zhang, Tao and Ding, Bowen and Song, Wei and Cheng, Zhenglin and Huo, Yuqi and Chen, Song and Li, Xu and Pan, Da and Zhang, Shusen and Wu, Xin and Liang, Zheng and Liu, Jun and Zhang, Tao and Lu, Keer and Zhao, Yaqi and Shen, Yanjun and Yang, Fan and Yu, Kaicheng and Lin, Tao and Xu, Jianhua and Zhou, Zenan and Chen, Weipeng},  
+  journal={arXiv preprint arXiv:2410.08565},  
+  year={2024}  
+}
+```
