@@ -77,6 +77,8 @@ We conducted a comprehensive evaluation across various modalities, including lan
 
 ## Demo
 
+https://github.com/user-attachments/assets/7b1f2e15-e4b8-4b62-98ae-35da3bc3b657
+
 [https://github.com/user-attachments/assets/19bbed01-f58e-4343-91e4-9e683a5a09bd](https://github.com/user-attachments/assets/736d6d48-85e8-4a95-8433-2af5b584e7c0)
 
 > Coming soon & Stay tuned! 😉
