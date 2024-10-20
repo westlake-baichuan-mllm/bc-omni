@@ -77,6 +77,8 @@ We conducted a comprehensive evaluation across various modalities, including lan
 
 ## Demo
 
+https://github.com/user-attachments/assets/19bbed01-f58e-4343-91e4-9e683a5a09bd
+
 > Coming soon & Stay tuned! 😉
 ## Requirements and Installation
 
