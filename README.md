@@ -4,8 +4,6 @@
 <h5 align="center"> If our project helps you, please give us a star ⭐ and cite our <a href="#citation">paper</a>!</h2>
 <h5 align="center">
 
-<!-- TODO：改成我们自己的链接 -->
-
 [![hf_space](https://img.shields.io/badge/🤗-Paper%20In%20HF-red.svg)](https://huggingface.co/papers/2410.08565)
 [![hf_checkpoint](https://img.shields.io/badge/🤗-Checkpoints-9C276A.svg)](https://github.com/westlake-baichuan-mllm/bc-omni)
 [![arxiv](https://img.shields.io/badge/Arxiv-2410.08565-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2410.08565)
@@ -22,9 +20,9 @@
 
 
 ## News
-- **[2025/01/26]** 🔥 The code and weights for both the base and alignment models of **Baichuan-Omni-1.5** are now available. Long wait! See [here](https://github.com/baichuan-inc/Baichuan-Omni-1.5)!
-- **[2025/01/25]** 🔥 We are excited to present **Baichuan-Omni-1.5**, an enhanced version that is capable of processing four modalities—text, image, audio, and video—while supporting both text and audio outputs in an end-to-end manner.
-- **[2024/10/11]** ⭐ We have released technical report of **Baichuan-Omni**. See [here](https://arxiv.org/abs/2410.08565)!
+- **[2025/01/26]** 🌟 The code and weights for both the base and alignment models of **Baichuan-Omni-1.5** are now available. Long wait! See [here](https://github.com/baichuan-inc/Baichuan-Omni-1.5)!
+- **[2025/01/25]** 🌟 We are excited to present **Baichuan-Omni-1.5**, an enhanced version that is capable of processing four modalities—text, image, audio, and video—while supporting both text and audio outputs in an end-to-end manner.
+- **[2024/10/11]** 🌟 We have released the technical report of **Baichuan-Omni**. See [here](https://arxiv.org/abs/2410.08565)!
 
 ## Introduction
 The salient multimodal capabilities and interactive experience of GPT-4o highlight its critical role in practical applications, yet it lacks a high-performing open-source counterpart.
