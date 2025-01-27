@@ -20,7 +20,7 @@
 
 
 ## News
-- **[2025/01/26]** 🔥 The code and weights for both the base and alignment models of **Baichuan-Omni-1.5** are now available. Long wait! See [here](https://github.com/baichuan-inc/Baichuan-Omni-1.5)!
+- **[2025/01/26]** 🔥 The code and model weights for both the base and alignment versions of **Baichuan-Omni-1.5** are now publicly available. Long wait! See [here](https://github.com/baichuan-inc/Baichuan-Omni-1.5)!
 - **[2025/01/25]** 🔥 We are excited to present **Baichuan-Omni-1.5**, an enhanced version that is capable of processing four modalities—text, image, audio, and video—while supporting both text and audio outputs in an end-to-end manner.
 - **[2024/10/11]** 🌟 We have released the technical report of **Baichuan-Omni**. See [here](https://arxiv.org/abs/2410.08565)!
 
